@@ -60,5 +60,16 @@ Once there, type the following command:
 
 This command will run your express application on `http://localhost:5000` and your react-app on `http://localhost:3000`
 
+If everything has been opened successfully, the command line should not show any errors, **other than a proxy error that cannot be fixed**.
+
+#### To close the server
+Make sure that your server is running correctly and close out of all `localhost` tabs in your browser.
+
+Next, open your command prompt that was used to start the server and:
+```
+ON MAC hold down control+C
+ON WINDOWS hold down control+C
+```
+
 ## Tada
 There you have it. A fully functional MERN stack application that uses MySQL for user authentication.
