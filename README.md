@@ -1,4 +1,4 @@
-# MySQL - ExpressJS - NodeJS - ReactJS (MERN) Authentication
+# MySQL - ExpressJS - ReactJS - NodeJS (MERN) Authentication
 Authentication website using express as a backend api fetching data from a MySQL database with Sequelize. This is accessed on the frontend with React that uses axios to fetch the api and register or login users. The home landing page displays all users in the database.
 
 # Getting Started
